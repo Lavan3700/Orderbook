@@ -12,3 +12,7 @@ la_guestbook.sql in die Datenbank hochladen.
 Doctrine installieren. (Order einfach SQL Abfragen umschreiben mit PDO)
 
 https://cdn.discordapp.com/attachments/853962431108743168/1110853495101345822/image.png
+https://cdn.discordapp.com/attachments/853962431108743168/1110884244596719666/1.JPG
+https://cdn.discordapp.com/attachments/853962431108743168/1110884244856778803/2.JPG
+https://cdn.discordapp.com/attachments/853962431108743168/1110884245083279370/3.JPG
+https://cdn.discordapp.com/attachments/853962431108743168/1110884244391219281/4.JPG
