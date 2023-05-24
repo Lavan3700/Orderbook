@@ -7,9 +7,9 @@ ich habe Doctrine Framework hauptsächlich für die SQL Abfragen benutzt, weil m
 
 Anleitung:
 
-connect.php -> Datenbankzugangsdaten abfüllen.
-la_guestbook.sql in die Datenbank hochladen.
-Doctrine installieren. (Order einfach SQL Abfragen umschreiben mit PDO)
+- connect.php -> Datenbankzugangsdaten abfüllen.
+- la_guestbook.sql in die Datenbank hochladen.
+- Doctrine installieren. (Order einfach SQL Abfragen umschreiben mit PDO)
 
 https://cdn.discordapp.com/attachments/853962431108743168/1110853495101345822/image.png
 https://cdn.discordapp.com/attachments/853962431108743168/1110884244596719666/1.JPG
