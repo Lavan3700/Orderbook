@@ -1,5 +1,5 @@
 # Orderbook
-Das Script ist ein Gästebuch, man sieht eine Übersicht an allen Bestellungen. Man kann sich einloggen und weitere Bestellungen hinzuzufügen, oder einen neuen Nutzer-Konto zu erstellen. Man hat auch die Möglichkeit eine Besetllung genauer anzusehen, indem man auf die ID klickt.
+Das Script ist ein Gästebuch, man sieht eine Übersicht an allen Bestellungen. Man kann sich einloggen und weitere Bestellungen hinzuzufügen, oder einen neuen Nutzer-Konto zu erstellen. Man hat auch die Möglichkeit eine Besetllung genauer anzusehen, indem man auf die ID klickt. Zum krönnenden Abschluss kann man auch nach Einträgen Filtern und Sortieren.
 
 Ich habe es hauptsächlich in PHP gecodet und mich an das MVC gehalten. Das war ein Übungsprojekt, damit ich in kontakt komme mit dem MVC Model.
 
